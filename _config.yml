@@ -18,10 +18,10 @@ google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: Catbook
+  name: lifufu
   pic: /assets/img/lied.jpg
-  picAlt: "catbook"
-  job: a category-centric theme
+  picAlt: "lifufu"
+  job: a man of boring.
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
